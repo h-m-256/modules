@@ -1,5 +1,5 @@
 # meta developer: h_m_256.t.me
-# meta banner: https://i.imgur.com/barcode.jpg
+# meta banner: https://envs.sh/H5B.jpg
 
 from .. import loader, utils
 from telethon.tl.types import Message
