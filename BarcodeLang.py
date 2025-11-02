@@ -1,4 +1,4 @@
-# meta developer: h_m_256.t.me && @RoflPlugins
+# meta developer: h_m_256.t.me
 # meta banner: https://i.imgur.com/barcode.jpg
 
 from .. import loader, utils
